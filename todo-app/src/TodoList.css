@@ -1,0 +1,14 @@
+.TodoList {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.TodoList-header {
+	margin-bottom: 10px;
+}
+
+.TodoList-ul {
+	width: 80%;
+	padding-left: 0px;
+}

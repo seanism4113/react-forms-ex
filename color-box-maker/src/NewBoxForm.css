@@ -1,0 +1,19 @@
+.NewBoxForm div {
+	margin: 10px;
+}
+
+.NewBoxForm label {
+	padding-right: 10px;
+	font-size: 20px;
+}
+
+.NewBoxForm button {
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	height: 40px;
+}
+
+.NewBoxForm input {
+	margin-right: 10px;
+}

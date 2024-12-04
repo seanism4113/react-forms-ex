@@ -1,0 +1,61 @@
+.Todo-div {
+	border-bottom: 1px solid lightgrey;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 5px;
+}
+
+.Todo-task {
+	font-size: 18px;
+	list-style: none;
+	padding: 9px;
+}
+
+.Todo-btn {
+	height: 25px;
+	font-weight: bold;
+}
+
+#remove-btn {
+	background-color: red;
+	color: white;
+	margin-left: 3px;
+	border: none;
+	border-radius: 3px;
+}
+
+#remove-btn:hover {
+	cursor: pointer;
+	background-color: rgb(212, 6, 6);
+}
+
+#remove-btn:active {
+	background-color: red;
+}
+
+.Todo-input {
+	height: 20px;
+	margin-right: 3px;
+	width: 300px;
+}
+
+.Todo-updateForm {
+	padding: 9px;
+}
+
+#update-btn {
+	background-color: rgb(32, 174, 160);
+	border: none;
+	border-radius: 5px;
+	color: white;
+}
+
+#update-btn:hover {
+	cursor: pointer;
+	background-color: rgb(39, 208, 191);
+}
+
+#update-btn:active {
+	background-color: rgb(32, 174, 160);
+}
